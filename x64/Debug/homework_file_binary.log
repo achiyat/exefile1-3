@@ -1,0 +1,7 @@
+﻿  homework_file_binary.c
+C:\Users\achiy\source\repos\homework_file_binary\homework_file_binary\homework_file_binary.c(118,9): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\achiy\source\repos\homework_file_binary\homework_file_binary\homework_file_binary.c(133,9): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\achiy\source\repos\homework_file_binary\homework_file_binary\homework_file_binary.c(148,9): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\achiy\source\repos\homework_file_binary\homework_file_binary\homework_file_binary.c(265,10): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\achiy\source\repos\homework_file_binary\homework_file_binary\homework_file_binary.c(238,8): warning C4101: 'str': unreferenced local variable
+  homework_file_binary.vcxproj -> C:\Users\achiy\source\repos\homework_file_binary\x64\Debug\homework_file_binary.exe
